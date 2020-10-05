@@ -5,7 +5,7 @@ function BodyContentHome() {
         <div  className='BodyContentLeft'>
             <div id='LineBetweenTopBarAndBodyLeft'/>
             <div className='BodyContentLeft2'>
-                <div><h2>Xin Chào!</h2></div>
+                <div><p>Xin Chào!</p></div>
                 <div>
                     <article>Bạn muốn thưởng thức hải sản ngon như 
                      vừa đánh bắt tại biển. Bạn không cần đi xa mà vẫn 
@@ -16,7 +16,6 @@ function BodyContentHome() {
                      của vùng đất than đá.
                      </article>
                 </div>
-                <div><h3>YO 3</h3></div>
             </div>
             <div id='LineBetweenBodyLeftAndFooter'/>
         </div>
